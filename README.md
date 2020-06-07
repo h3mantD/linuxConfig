@@ -20,6 +20,7 @@
 - `cd ~/.vim/plugged/youcompleteme`
 - **If you want only c/c++ auto completion** 
 	- `./install.py --clangd-completer`
+	- you can also try this `https://www.vim.org/scripts/script.php?script_id=213` this may help you in competitive programming
 - **for more options** 
 	- `./install.py -h`
 	- **or** `./install.py --all`
