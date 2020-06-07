@@ -27,6 +27,7 @@
 	- clone it from `https://github.com/ycm-core/YouCompleteMe`
 	
 	
+* * *
 ### If any of this is not working then 
 - Replace vim-config with your .vim
 	- `cp vim-config ~.vim`
