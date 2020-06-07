@@ -14,3 +14,12 @@
 - `:PlugInstall`
 - `:source %`
 * * *
+
+### For installing `YouCompleteMe`/`Ycm` 
+
+- `cd ~/.vim/plugged/youcompleteme`
+- **If you want only c/c++ auto completion** 
+	- `./install.py --clangd-completer`
+- **for more options** 
+	- `./install.py -h`
+	- **or** `./install.py --all`
