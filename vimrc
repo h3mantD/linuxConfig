@@ -1,3 +1,5 @@
+" modifying the vim
+
 syntax on
 
 set guicursor=
