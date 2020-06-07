@@ -24,7 +24,7 @@
 - **for more options** 
 	- `./install.py -h`
 	- **or** `./install.py --all`
-- **If /youcompleteme is not present then**
+- **If `/youcompleteme` is not present then**
 	- clone it from `https://github.com/ycm-core/YouCompleteMe`
 	
 	
