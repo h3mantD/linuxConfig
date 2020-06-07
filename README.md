@@ -1,6 +1,6 @@
 # vimConfig
 
-# Transferring VIM into IDE
+# Converting VIM into IDE
 	
 ### Installing the vim plugin manager
 
