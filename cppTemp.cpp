@@ -3,8 +3,8 @@
 
 #include<bits/stdc++.h>
 //printing and scanning statements...
-#define deb(x) cout << #x << "=" << x << "\n"
-#define deb2(x, y) cout << #x << "=" << x << "," << #y << "=" << y << "\n"
+#define dis(x) cout << #x << "=" << x << "\n"
+#define dis2(x, y) cout << #x << "=" << x << "," << #y << "=" << y << "\n"
 
 #define pi(x)	printf("%d\n",x)
 #define pl(x)	printf("%lld\n",x)
