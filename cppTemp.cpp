@@ -54,6 +54,11 @@ void ipgraph(int n, int m);
 
 void solve() {
   int i, j, n, m;
+  
+  /*
+  	Write your code here
+  */
+  
 }
 
 int main() {
